@@ -1,2 +1,3 @@
-# ProjetoSimulacao
-Código do trabalho "O Método de Monte Carlo Aplicado à Análise do Custo de Aquisição de Ações no   Contexto de Um Pequeno Investidor"
+# Projeto Simulação com Monte Carlo
+
+Inicie o código pelo _Jupyter Notebook_!
